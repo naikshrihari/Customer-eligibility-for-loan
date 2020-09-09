@@ -17,23 +17,24 @@ a partial data set.
 
  
 ## Data
-Variable                  |Description
-Loan_ID                   |Unique Loan ID
-Gender                    |Male/ Female
-Married                   |Applicant married (Y/N)
-Dependents                |Number of dependents
-Education                 |Applicant Education (Graduate/ Under Graduate)
-Self_Employed             |Self employed (Y/N)
-ApplicantIncome           |Applicant income
-CoapplicantIncome         |Coapplicant income
-LoanAmount                |Loan amount in thousands
-Loan_Amount_Term          |Term of loan in months
-Credit_History            |credit history meets guidelines
-Property_Area             |Urban/ Semi Urban/ Rural
-Loan_Status               |Loan approved (Y/N)
+|Variable                  |Description
+---------------------------------------------------------------
+|Loan_ID                   |Unique Loan ID
+|Gender                    |Male/ Female
+|Married                   |Applicant married (Y/N)
+|Dependents                |Number of dependents
+|Education                 |Applicant Education (Graduate/ Under Graduate)
+|Self_Employed             |Self employed (Y/N)
+|ApplicantIncome           |Applicant income
+|CoapplicantIncome         |Coapplicant income
+|LoanAmount                |Loan amount in thousands
+|Loan_Amount_Term          |Term of loan in months
+|Credit_History            |credit history meets guidelines
+|Property_Area             |Urban/ Semi Urban/ Rural
+|Loan_Status               |Loan approved (Y/N)
  
 
-##Note: 
+## Note: 
     1. Evaluation Metric is accuracy i.e. percentage of loan approval you correctly predict.
     2. You are expected to upload the solution in the format of "sample_submission.csv"
 
